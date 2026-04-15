@@ -13,7 +13,7 @@
 - El Teams también se ha creado:
 ![Captura de pantalla de Teams](imgs/Canal_Teams.jpeg)
 
-## [Fase 2 - Definición del proyecto.](Fase_2.md)
+## Fase 2 - Definición del proyecto.
 - ### __Qué web/aplicación se va a diseñar__
   Un catálogo detallado de películas y series de todas las plataformas de streaming, televisión, directo, cine, etc.
 - ### __Cuál es su objetivo__
