@@ -1,7 +1,5 @@
-# DocsProjecte
-Documentació projecte intermodular.
-
-## Miembros del equipo:
+# Cinepeliculas.com
+## Equipo formado por:
 - Adrián
 - Edu
 - Andreu
