@@ -14,11 +14,11 @@
 ![Captura de pantalla de Teams](imgs/Canal_Teams.jpeg)
 
 ## [Fase 2 - Definición del proyecto.](Fase_2.md)
-- ### Qué web/aplicación se va a diseñar
+- ### __Qué web/aplicación se va a diseñar__
   Un catálogo detallado de películas y series de todas las plataformas de streaming, televisión, directo, cine, etc.
-- ### Cuál es su objetivo
+- ### __Cuál es su objetivo__
   Crear catálogo de películas y series donde todas las entradas estén separadas por categorías como género, tematica, duración, año/época...
-- ### A qué público va dirigida
+- ### __A qué público va dirigida__
   El publico principal al que va enfocado el catálogo es a una audiencia joven o adulta, aunque también hay categorías ianfantiles.
-- ### Que problema(s) resuelve
+- ### __Que problema(s) resuelve__
   El pasar más tiempo viendo buscando el qué ver que viendo algo. El querer ver una serie o película pero no saber en que plataformas está disponible + su precio.
