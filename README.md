@@ -8,4 +8,4 @@ Documentació projecte intermodular.
 
 ## Fases
 - Fase 1 - Creación del equipo y el entorno.
-- [Fase 2 - Definición del proyecto.](Fase_1_2.md)
+- [Fase 2 - Definición del proyecto.](Fase_2.md)
