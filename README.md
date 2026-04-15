@@ -1,19 +1,19 @@
-# Cinepeliculas.com
-### Equipo formado por:
+# 🎞️ Cinepeliculas.com
+### 🫂 Equipo formado por:
 - Adrián
 - Edu
 - Andreu
 
-## Índice
+## 📕 Índice
 - [Fase 1 - Creación del equipo y el entorno.](#fase-1---creación-del-equipo-y-el-entorno)
 - [Fase 2 - Definición del proyecto.](#fase-2---definición-del-proyecto)
 
-## Fase 1 - Creación del equipo y el entorno.
+## 1️⃣ Fase 1 - Creación del equipo y el entorno.
 - La estructura de carpetas del proyecto es este mismo repositorio de GitHub.
 - El Teams también se ha creado:
 ![Captura de pantalla de Teams](imgs/Canal_Teams.jpeg)
 
-## Fase 2 - Definición del proyecto.
+## 2️⃣ Fase 2 - Definición del proyecto.
 - ### __Qué web/aplicación se va a diseñar__
   Un catálogo detallado de películas y series de todas las plataformas de streaming, televisión, directo, cine, etc.
 - ### __Cuál es su objetivo__
