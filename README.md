@@ -1,4 +1,5 @@
 # 🎞️ Cinepeliculas.com
+``els emojis els he ficat yo, no es chagepete 😭 - Andreu``
 ### 🫂 Equipo formado por:
 - Adrián
 - Edu
