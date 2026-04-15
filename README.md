@@ -1,2 +1,6 @@
 # DocsProjecte
-Documentació projecte intermodular. Equip: Adrián, Edu, Andreu
+Documentació projecte intermodular.
+##Miembros del equipo:
+- Adrián
+- Edu
+- Andreu
