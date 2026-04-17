@@ -1,5 +1,5 @@
 # 🎞️ Cinepeliculas.com
-``els emojis els he ficat yo, no es chagepete 😭 - Andreu``
+``Els emojis i el text han sigut colocats manualment. Ninguna IA ha sigut utilitzada en este projecte.``
 ### 🫂 Equipo formado por:
 - Adrián
 - Edu
