@@ -35,10 +35,10 @@
   ![Imagen de ejemplo](imgs/img_placeholder.webp)
 
 - ### __Tablero de Trello__
-  ![Imagen de ejemplo](imgs/img_placeholder.webp)
+  ![Imagen de ejemplo](imgs/Trello.png)
 
 #### Fase 4
 ## 4️⃣ Metodología de trabajo.
-Para ese proyecto hemos decidido usar la metodología Kanban mediante la plataforma Trello. Esta metodología es más simple y visual, permitiéndonos saber con tan solo un vistazo rápido el estado del proyecto.
+Para ese proyecto hemos decidido usar la metodología Kanban mediante la plataforma Trello. Esta metodología es más simple y visual, permitiéndonos saber con tan solo un vistazo rápido las tareas pendientes de cada uno y el estado general del proyecto.
 
-Las reuniones se organizarán semanalmente mediante Teams. En estas reuniones se evaluará el progreso del proyecto y se asignarán nuevas tareas.
+Las reuniones se organizarán semanalmente mediante Teams. En estas reuniones se evaluará el progreso del proyecto y se asignarán nuevas tareas a cada integrante del grupo.
