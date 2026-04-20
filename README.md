@@ -40,4 +40,5 @@
 #### Fase 4
 ## 4️⃣ Metodología de trabajo.
 Para ese proyecto hemos decidido usar la metodología Kanban mediante la plataforma Trello. Esta metodología es más simple y visual, permitiéndonos saber con tan solo un vistazo rápido el estado del proyecto.
+
 Las reuniones se organizarán semanalmente mediante Teams. En estas reuniones se evaluará el progreso del proyecto y se asignarán nuevas tareas.
