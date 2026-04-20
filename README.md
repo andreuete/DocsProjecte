@@ -8,6 +8,8 @@
 ## 📕 Índice
 - [Fase 1 - Creación del equipo y el entorno.](#fase-1)
 - [Fase 2 - Definición del proyecto.](#fase-2)
+- [Fase 3 - Planificación del proyecto.](#fase-3)
+- [Fase 4 - Metodología de trabajo.](#fase-4)
 
 #### Fase 1
 ## 1️⃣ Creación del equipo y el entorno.
@@ -26,3 +28,10 @@
   El publico principal al que va enfocado el catálogo es a una audiencia joven o adulta, aunque también hay categorías ianfantiles.
 - ### __Que problema(s) resuelve__
   El pasar más tiempo viendo buscando el qué ver que viendo algo. El querer ver una serie o película pero no saber en que plataformas está disponible + su precio.
+
+#### Fase 3
+## 3️⃣ Planificación del proyecto.
+
+
+#### Fase 4
+## 4️⃣ Metodología de trabajo.
