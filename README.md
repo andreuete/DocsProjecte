@@ -1,5 +1,5 @@
 # 🎞️ Cinepeliculas.com
-``Els emojis i el text han sigut colocats manualment. Ninguna IA ha sigut utilitzada en este projecte.``
+``Els emojis i el text han sigut colocats manualment. Ninguna IA ha sigut utilitzada en aquest projecte.``
 ### 🫂 Equipo formado por:
 - Adrián
 - Edu
