@@ -32,7 +32,7 @@
 #### Fase 3
 ## 3️⃣ Planificación del proyecto.
 - ### __Diagrama de Gantt__
-  ![Imagen de ejemplo](imgs/DiagramGantt.png)
+  ![Imagen de ejemplo](imgs/DiagramaGantt.png)
 
 - ### __Tablero de Trello__
   ![Imagen de ejemplo](imgs/Trello.png)
