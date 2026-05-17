@@ -42,3 +42,15 @@
 Para ese proyecto hemos decidido usar la metodología Kanban mediante la plataforma Trello. Esta metodología es más simple y visual, permitiéndonos saber con tan solo un vistazo rápido las tareas pendientes de cada uno y el estado general del proyecto.
 
 Las reuniones se organizarán semanalmente mediante Teams. En estas reuniones se evaluará el progreso del proyecto y se asignarán nuevas tareas a cada integrante del grupo.
+
+#### Fase 5 y 6
+## 5️⃣ y 6️⃣ Diseño de la web y Prototipo visual
+- ### __Pagina principal de la web__
+  ![Imagen pagina principal](imgs/img_placeholder.webp)
+
+  Hemos decididido darle un toque oscuro como la sala de un cine donde se dividiran en secciones las peliculas que quiere buscar el usuario segun que tipo de pelicula desearia ver.
+
+- ### __Pagina de informacion detallada de la pelicula__
+  ![Imagen pagina principal](imgs/img_placeholder.webp)
+
+  Una vez el usuario haya encontrado una pelicula que le interese podra ver informacion mas detallada de esta con una sinopsis, la media de calificaciones, donde poder ver la pelicula...
