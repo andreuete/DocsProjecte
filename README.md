@@ -46,11 +46,11 @@ Las reuniones se organizarán semanalmente mediante Teams. En estas reuniones se
 #### Fase 5 y 6
 ## 5️⃣ y 6️⃣ Diseño de la web y Prototipo visual
 - ### __Pagina principal de la web__
-  ![Imagen pagina principal](imgs/img_placeholder.webp)
+  ![Imagen pagina principal](imgs/DiseñoWeb.png)
 
   Hemos decididido darle un toque oscuro como la sala de un cine donde se dividiran en secciones las peliculas que quiere buscar el usuario segun que tipo de pelicula desearia ver.
 
 - ### __Pagina de informacion detallada de la pelicula__
-  ![Imagen pagina principal](imgs/img_placeholder.webp)
+  ![Imagen pagina principal](imgs/DiseñoWeb2.png)
 
   Una vez el usuario haya encontrado una pelicula que le interese podra ver informacion mas detallada de esta con una sinopsis, la media de calificaciones, donde poder ver la pelicula...
