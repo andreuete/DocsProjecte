@@ -10,6 +10,8 @@
 - [Fase 2 - Definición del proyecto.](#fase-2)
 - [Fase 3 - Planificación del proyecto.](#fase-3)
 - [Fase 4 - Metodología de trabajo.](#fase-4)
+- [Fase 5 - Diseño de la web.](#fase-5)
+- [Fase 6 - Prototipo visual.](#fase-6)
 
 #### Fase 1
 ## 1️⃣ Creación del equipo y el entorno.
