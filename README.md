@@ -49,13 +49,13 @@ Las reuniones se organizarán semanalmente mediante Teams. En estas reuniones se
 ![Imagen wireframes](imgs/wireframe.png)
 
 - ### __Inicio__
-Aquí se muestran peliculas y series recomendadas para el usuario, tendencias y novedades.
+  - Aquí se muestran peliculas y series recomendadas para el usuario, tendencias y novedades.
 - ### __Descubrir__
-Aquí se muestran todas las películas y series indexadas en la web ordenadas y clasificadas por etiquetas.
+  - Aquí se muestran todas las películas y series indexadas en la web ordenadas y clasificadas por etiquetas.
 - ### __Mi catálogo__
-Películas y series guardadas por el usuario para ver más tarde o favoritas.
+  - Películas y series guardadas por el usuario para ver más tarde o favoritas.
 - ### __Reseñas__
-Registro de las interacciones que ha hecho el usuario: Reseñas a peliculas o series y respuestas a comentarios de otros usuarios.
+  - Registro de las interacciones que ha hecho el usuario: Reseñas a peliculas o series y respuestas a comentarios de otros usuarios.
 
 #### Fase 6
 ## 6️⃣ Prototipo visual
