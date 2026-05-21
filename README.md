@@ -43,8 +43,22 @@ Para ese proyecto hemos decidido usar la metodología Kanban mediante la platafo
 
 Las reuniones se organizarán semanalmente mediante Teams. En estas reuniones se evaluará el progreso del proyecto y se asignarán nuevas tareas a cada integrante del grupo.
 
-#### Fase 5 y 6
-## 5️⃣ y 6️⃣ Diseño de la web y Prototipo visual
+#### Fase 5
+## 5️⃣ Diseño de la web.
+- ### __Wireframe__
+![Imagen wireframes](imgs/wireframe.png)
+
+- ### __Inicio__
+Aquí se muestran peliculas y series recomendadas para el usuario, tendencias y novedades.
+- ### __Descubrir__
+Aquí se muestran todas las películas y series indexadas en la web ordenadas y clasificadas por etiquetas.
+- ### __Mi catálogo__
+Películas y series guardadas por el usuario para ver más tarde o favoritas.
+- ### __Reseñas__
+Registro de las interacciones que ha hecho el usuario: Reseñas a peliculas o series y respuestas a comentarios de otros usuarios.
+
+#### Fase 6
+## 6️⃣ Prototipo visual
 - ### __Pagina principal de la web__
   ![Imagen pagina principal](imgs/DiseñoWeb.png)
 
